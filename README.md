@@ -1,1 +1,1 @@
-# DevOpsChallenge
+I've managed to host a Wordpress site with its own domain and SSL certificate with Docker Compose and Nginx. I did that following the steps provided at https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose
